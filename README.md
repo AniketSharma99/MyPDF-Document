@@ -1,1 +1,3 @@
 # MyPDF-Document
+##UML
+##HATEOAS
